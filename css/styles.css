@@ -2,3 +2,7 @@
   background-image: url(backgrounds/h_img.jpg);
   background-size: cover;
 }
+.info h1 {
+  color: white;
+  text-align: center;
+}
