@@ -51,6 +51,10 @@
   color: white;
   background-size: cover;
   align-self: center;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
 }
 input[type=text],input[type=email],#comment{
   background: transparent;
