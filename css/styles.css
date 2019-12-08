@@ -96,3 +96,12 @@ input[type=text],input[type=email],#comment{
     margin-left:8%;
     margin-right: 16%; 
   }
+  #product, #development, #design{
+  display: none;
+  font-family: 'Copse', serif;
+  font-size: 16px;
+}
+#product .title, #development .title, #design .title{
+  font-size: 20px;
+  font-weight: 600;
+}
