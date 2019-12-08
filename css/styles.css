@@ -40,3 +40,6 @@
 .do p {
   text-align: center;
 }
+.contact {
+  background-image: url(backgrounds/c_image.jpg);
+}
