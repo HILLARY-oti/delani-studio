@@ -74,3 +74,25 @@ input[type=text],input[type=email],#comment{
   padding-top: 50%;
   font-family: 'Delius Swash Caps', cursive;
 }
+#co{
+    width: 100%;
+    margin-left: 1%;
+    padding-bottom: 20px;
+  }
+  #co2{
+    width: 100%;
+    margin-left:1 %;
+    margin-bottom: 20px;
+  }
+  #comment{
+    margin-left: 4%;
+    width: 84%;
+  }
+  .col-md-3 img{
+    width: 400px;
+    margin: 20px;
+  }
+   #portfolio{
+    margin-left:8%;
+    margin-right: 16%; 
+  }
