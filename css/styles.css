@@ -82,11 +82,21 @@ input[type=text],input[type=email],#comment{
     width: 100%;
     margin-left: 1%;
     padding-bottom: 20px;
+    float: left;
+    display: flex;
+  }
+  .form-group form-inline{
+    display: flex;
   }
   #co2{
     width: 100%;
     margin-left: 1%;
     margin-bottom: 20px;
+    float: left;
+  }
+  input{
+         float: left;
+         display: flex;
   }
   #comment{
     margin-left: 4%;
@@ -128,4 +138,13 @@ footer{
 }
 footer p{
   margin-top: 10px;
+}
+.in {
+  display: flex;
+  padding-right: 10%;
+  padding-left: 20%;
+  margin-right: 50px;
+}
+#port {
+  margin-top: 20%;
 }
